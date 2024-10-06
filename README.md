@@ -1,0 +1,2 @@
+# ErichEdu
+aplicativo escolar
